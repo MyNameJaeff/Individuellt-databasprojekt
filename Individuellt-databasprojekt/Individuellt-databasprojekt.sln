@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indv-DBP", "Indv-DBP\Indv-DBP.csproj", "{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

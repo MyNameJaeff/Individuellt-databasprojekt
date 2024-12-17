@@ -1,0 +1,6 @@
+/Users/fredrik.andersson31/Documents/GitHub/Individuellt-databasprojekt/Individuellt-databasprojekt/Individuellt-databasprojekt/obj/Debug/net8.0/Individuellt-databasprojekt.csproj.AssemblyReference.cache
+/Users/fredrik.andersson31/Documents/GitHub/Individuellt-databasprojekt/Individuellt-databasprojekt/Individuellt-databasprojekt/obj/Debug/net8.0/Individuellt-databasprojekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrik.andersson31/Documents/GitHub/Individuellt-databasprojekt/Individuellt-databasprojekt/Individuellt-databasprojekt/obj/Debug/net8.0/Individuellt-databasprojekt.AssemblyInfoInputs.cache
+/Users/fredrik.andersson31/Documents/GitHub/Individuellt-databasprojekt/Individuellt-databasprojekt/Individuellt-databasprojekt/obj/Debug/net8.0/Individuellt-databasprojekt.AssemblyInfo.cs
+/Users/fredrik.andersson31/Documents/GitHub/Individuellt-databasprojekt/Individuellt-databasprojekt/Individuellt-databasprojekt/obj/Debug/net8.0/Individuellt-databasprojekt.csproj.CoreCompileInputs.cache
+/Users/fredrik.andersson31/Documents/GitHub/Individuellt-databasprojekt/Individuellt-databasprojekt/Individuellt-databasprojekt/obj/Debug/net8.0/Individuellt-databasprojekt.sourcelink.json
