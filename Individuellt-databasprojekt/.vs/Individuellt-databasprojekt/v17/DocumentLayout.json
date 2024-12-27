@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|c:\\users\\fredr\\source\\repos\\individuellt-databasprojekt\\individuellt-databasprojekt\\indv-dbp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|solutionrelative:indv-dbp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|c:\\users\\fredr\\source\\repos\\individuellt-databasprojekt\\individuellt-databasprojekt\\indv-dbp\\updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|solutionrelative:indv-dbp\\updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|c:\\users\\fredr\\source\\repos\\individuellt-databasprojekt\\individuellt-databasprojekt\\indv-dbp\\getdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|solutionrelative:indv-dbp\\getdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|c:\\users\\fredr\\source\\repos\\individuellt-databasprojekt\\individuellt-databasprojekt\\indv-dbp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|solutionrelative:indv-dbp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|c:\\users\\fredr\\source\\repos\\individuellt-databasprojekt\\individuellt-databasprojekt\\indv-dbp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|solutionrelative:indv-dbp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|c:\\users\\fredr\\source\\repos\\individuellt-databasprojekt\\individuellt-databasprojekt\\indv-dbp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|solutionrelative:indv-dbp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|c:\\users\\fredr\\source\\repos\\individuellt-databasprojekt\\individuellt-databasprojekt\\indv-dbp\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|solutionrelative:indv-dbp\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|c:\\users\\fredr\\source\\repos\\individuellt-databasprojekt\\individuellt-databasprojekt\\indv-dbp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8F0D34-CACC-4A04-A5CB-05C155AFE4EF}|Indv-DBP\\Indv-DBP.csproj|solutionrelative:indv-dbp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Data\\SchoolContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Indv-DBP\\Data\\SchoolContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Models\\Course.cs",
+              "RelativeToolTip": "Indv-DBP\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:31:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Models\\Person.cs",
+              "RelativeToolTip": "Indv-DBP\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:27:16.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Models\\Student.cs",
+              "RelativeToolTip": "Indv-DBP\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:25:31.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Models\\Staff.cs",
+              "RelativeToolTip": "Indv-DBP\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:16:07.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Indv-DBP\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:03:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateData.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\UpdateData.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\UpdateData.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\UpdateData.cs",
+              "RelativeToolTip": "Indv-DBP\\UpdateData.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:47:22.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetData.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\GetData.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\GetData.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\GetData.cs",
+              "RelativeToolTip": "Indv-DBP\\GetData.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:46:54.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\MainMenu.cs",
+              "RelativeToolTip": "Indv-DBP\\MainMenu.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:33:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Program.cs",
+              "RelativeDocumentMoniker": "Indv-DBP\\Program.cs",
+              "ToolTip": "C:\\Users\\fredr\\source\\repos\\Individuellt-databasprojekt\\Individuellt-databasprojekt\\Indv-DBP\\Program.cs",
+              "RelativeToolTip": "Indv-DBP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:33:05.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

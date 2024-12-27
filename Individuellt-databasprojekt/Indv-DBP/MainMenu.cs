@@ -5,16 +5,18 @@ using Spectre.Console;
 
 public class MainMenu
 {
-    
+
     private static void AwaitInput()
     {
         AnsiConsole.MarkupLine("[bold]Press any key to continue...[/]");
         Console.ReadKey();
     }
-    
+
     //public static async Task Menu(SqlConnection sqlConnection)
     public static async Task Menu()
     {
+        GetData GetData = new GetData();
+        UpdateData UpdateData = new UpdateData();
         while (true)
         {
             Console.Clear();
@@ -29,28 +31,24 @@ public class MainMenu
             switch (selection)
             {
                 case "Get Teachers by Department":
-                    AnsiConsole.MarkupLine("Not implemented yet.");
+                    GetData.GetTeachersByDepartment();
                     AwaitInput();
                     break;
 
                 case "Get Students info":
-                    AnsiConsole.MarkupLine("Not implemented yet.");
+                    GetData.GetStudentsInfo();
                     AwaitInput();
                     break;
 
                 case "Get Active Courses":
-                    AnsiConsole.MarkupLine("Not implemented yet.");
+                    GetData.GetActiveCourses();
                     AwaitInput();
                     break;
 
                 case "Update student":
-                    AnsiConsole.MarkupLine("Not implemented yet.");
+                    UpdateData.UpdateStudent();
                     AwaitInput();
                     break;
-
-                case "[red]Back[/]":
-                    Console.Clear();
-                    return;
 
                 case "[red]Exit[/]":
                     AnsiConsole.MarkupLine("[green]Goodbye![/]");
